@@ -10,3 +10,7 @@ body {
 .bg-primary {
   background-color: #0f5e75 !important;
 }
+
+.dropdown-toggle::after {
+  vertical-align: middle !important;
+}
