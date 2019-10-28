@@ -27,3 +27,7 @@ body {
 .linkedin-logo {
     height: 27px;
 }
+
+.max-width {
+    max-width: 100%;
+}
