@@ -14,3 +14,16 @@ body {
 .dropdown-toggle::after {
   vertical-align: middle !important;
 }
+
+.logo {
+    width: 57px;
+    height: 57px;
+}
+
+.main-content {
+    min-height: 53vh;
+}
+
+.linkedin-logo {
+    height: 27px;
+}
