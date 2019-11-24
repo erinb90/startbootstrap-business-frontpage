@@ -5,6 +5,7 @@
  */
 body {
   padding-top: 56px;
+  font-family: 'Libre Franklin', sans-serif;
 }
 
 .bg-primary {
@@ -22,6 +23,11 @@ body {
 
 .main-content {
     min-height: 53vh;
+}
+
+.linkedin-logo-nav {
+  height: 27px;
+  padding-bottom: 4px;
 }
 
 .linkedin-logo {
